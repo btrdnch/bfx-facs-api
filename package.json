@@ -1,5 +1,5 @@
 {
-  "name": "bfx-facs-api",
+  "name": "@bitfinex/bfx-facs-api",
   "version": "0.0.1",
   "private": false,
   "description": "Bitfinex API Facility",
@@ -12,10 +12,10 @@
     "bitfinex"
   ],
   "dependencies": {
-    "bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git"
+    "@bitfinex/bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git"
   },
   "engine": {
-    "node": ">=8.0"
+    "node": ">=16.0"
   },
   "license": "Apache-2.0",
   "repository": {
