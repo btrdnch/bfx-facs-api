@@ -14,7 +14,7 @@
   "dependencies": {
     "@bitfinex/bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git"
   },
-  "engine": {
+  "engines": {
     "node": ">=16.0"
   },
   "license": "Apache-2.0",
